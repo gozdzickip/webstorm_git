@@ -1,2 +1,5 @@
 <html>
+<body>
+<p>Changes made by Piotr</p>
+</body>
 </html>
